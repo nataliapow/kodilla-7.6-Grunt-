@@ -1,0 +1,24 @@
+{
+  "name": "kodilla-grunt-project",
+  "version": "1.0.0",
+  "description": "Example grunt project",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm init -y"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Natalia Pow",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
