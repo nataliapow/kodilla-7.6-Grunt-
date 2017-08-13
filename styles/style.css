@@ -3,7 +3,7 @@
   box-sizing: border-box; }
 
 body {
-  margin: 0 auto;
+  margin: 0;
   font-family: 'Open Sans', sans-serif; }
 
 .row:before,
@@ -22,14 +22,14 @@ header {
 .container {
   max-width: 1200px;
   width: 100%;
-  margin: 0 auto; }
+  margin: 0; }
 
 header nav img {
   padding: 10px 0; }
 
 header nav ul {
   float: right;
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
   list-style-type: none; }
   header nav ul li {
@@ -110,7 +110,7 @@ section {
   width: 100%; }
 
 .col-offset-0 {
-  margin-left: 0 auto; }
+  margin-left: 0; }
 
 .col-offset-1 {
   margin-left: 8.33%; }
@@ -326,7 +326,7 @@ button {
   .col-s-12 {
     width: 100%; }
   .col-s-offset-0 {
-    margin-left: 0 auto; }
+    margin-left: 0; }
   .col-s-offset-1 {
     margin-left: 8.33%; }
   .col-s-offset-2 {
@@ -360,7 +360,7 @@ button {
         text-align: center; }
   header nav img {
     display: block;
-    margin: 0 auto; }
+    margin: 0; }
   .footer .row .center {
     text-align: center; }
   .gallery .layer:hover {
@@ -374,4 +374,4 @@ button {
   .workers p:after {
     content: " - Lorem ipsum"; } }
 
-/*# sourceMappingURL=main.css.map */
+/*# sourceMappingURL=style.css.map */
